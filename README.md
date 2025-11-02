@@ -1,15 +1,15 @@
 # HR-analytics-Dashboard
 
- ** Project Title / Headline **
+ # ** Project Title / Headline **
 
 HR Insights 360: Employee Performance & Workforce Analytics Dashboard
 A comprehensive Power BI dashboard that analyzes workforce demographics, attrition trends, employee performance, and HR KPIs to support data-driven HR decision-making.
 
-** Short Description / Purpose **
+# ** Short Description / Purpose **
 
 The HR Insights Dashboard provides a deep dive into workforce metrics such as employee engagement, attrition, demographics, hiring trends, and performance distribution. It empowers HR teams and management to identify workforce risks, optimize recruitment strategies, and improve retention.
 
-** Tech Stack **
+# ** Tech Stack **
 Tool/Tech	Purpose
 
 Power BI Desktop -	Data visualization & dashboard creation
@@ -18,7 +18,7 @@ DAX	             -  Calculations & dynamic measures
 Data Modeling	   -  Relationship building between HR tables
 File Format	     -  .pbix for development & .png/.pdf for report preview
 
-** Data Source **
+# ** Data Source **
 
 Dataset: HR employee dataset (public HR data sample)
 Includes fields related to:
@@ -29,7 +29,7 @@ Attrition status
 Performance ratings
 Hiring & exit data
 
-** Features / Highlights **
+# ** Features / Highlights **
 ✅ Business Problem
 HR managers face difficulty in understanding attrition patterns, workforce demographics, and performance trends without a consolidated view. Decisions become reactive instead of strategic.
 
@@ -41,7 +41,7 @@ Build an analytical HR dashboard that:
 ✔ Identifies risk areas for employee turnover
 ✔ Supports HR strategic planning & talent management
 
-** 📊 Key Visuals & Insights **
+# ** 📊 Key Visuals & Insights **
 Visual	Purpose
 HR KPIs	Total employees, attrition %, avg salary, avg tenure
 Department-wise Headcount & Attrition	Identify departments with highest turnover
@@ -51,7 +51,7 @@ Salary vs Performance Chart	Understanding link between compensation & performanc
 Education & Experience Breakdown	Skill composition of workforce
 Attrition by Tenure	Discover at-risk employee groups based on experience
 
-** 💡 Business Impact **
+# ** 💡 Business Impact **
 
 Enhanced retention strategies by identifying risk groups
 Data-backed recruitment & workforce planning
@@ -59,7 +59,7 @@ Alignment of compensation strategy with performance trends
 Improved diversity & inclusion monitoring
 Better employee engagement strategy through demographic insights
 
-** Screenshots / Demos **
+# ** Screenshots / Demos **
 
 Show what the dashboard looks like
 Example : [Dashboard Preview] (https://github.com/Gowth29/HR-analytics-Dashboard/blob/main/HR%20analytics%20Dashboard%20screenshot.png)
