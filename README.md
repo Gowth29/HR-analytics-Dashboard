@@ -1,6 +1,6 @@
 # HR-analytics-Dashboard
 
-#Project Title / Headline
+**Project Title / Headline**
 
 HR Insights 360: Employee Performance & Workforce Analytics Dashboard
 A comprehensive Power BI dashboard that analyzes workforce demographics, attrition trends, employee performance, and HR KPIs to support data-driven HR decision-making.
