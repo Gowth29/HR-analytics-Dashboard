@@ -62,4 +62,4 @@ Better employee engagement strategy through demographic insights
 #Screenshots / Demos
 
 Show what the dashboard looks like
-
+Example : [Dashboard Preview] (https://github.com/Gowth29/HR-analytics-Dashboard/blob/main/HR%20analytics%20Dashboard%20screenshot.png)
